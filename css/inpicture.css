@@ -1,0 +1,64 @@
+
+
+h1{
+    color: rgb(74, 235, 11);
+    font-family: Verdana, sans-serif;
+    justify-content: center;
+    text-align: center;
+    /* margin-left: 20%; */
+    font-size: 4em;
+}
+
+/* html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+} */
+
+body {
+    /* display: table-cell;
+    vertical-align: middle;
+     */
+     text-align: center;
+     background-image: url("/image/bgck.jpg");
+     background-position: center;
+     background-repeat: no-repeat;
+     justify-content: center;
+
+}
+img{
+    width: 350px;
+    height: 350px;
+    justify-content: center;
+}
+
+
+.btn{
+    background-color: bisque;
+     margin-left:20px; 
+    text-align: center;
+    font-style: oblique;
+    border-radius: 15px;
+    width: 90px;
+    height: 40px;
+    font-size: medium;
+}
+.qustions{
+    justify-content: center;
+}
+.msg{
+    width: 200px;
+    height: 250px;
+    margin: auto auto;
+    font-size: 3em;
+    display: none;
+    padding: 10px;
+    background-color: #A8DDFD;
+    justify-content: center;
+    font-family:  'Open Sans', sans-serif;
+    border: 1px solid #97C6E3;
+    border-radius: 10px;
+}
